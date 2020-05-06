@@ -15,13 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method-5-Scope", "Method-5-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method-6-SquareTest", "Method-6-SquareTest\Method-6-SquareTest.csproj", "{D2A8D85A-88BA-4F6D-BA60-53CC12939A85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method-7-Method Overload", "Method-7-Method Overload\Method-7-Method Overload.csproj", "{6024523C-5DB9-4FB4-AEE9-BC5DFC759923}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method-7-Method Overload", "Method-7-Method Overload\Method-7-Method Overload.csproj", "{6024523C-5DB9-4FB4-AEE9-BC5DFC759923}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method-8-CalculatePowers", "Method-8-CalculatePowers\Method-8-CalculatePowers.csproj", "{2C4F4FAB-2458-4FAA-9F70-E42958B0303E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method-8-CalculatePowers", "Method-8-CalculatePowers\Method-8-CalculatePowers.csproj", "{2C4F4FAB-2458-4FAA-9F70-E42958B0303E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method-9-FactorialTest", "Method-9-FactorialTest\Method-9-FactorialTest.csproj", "{CA787E5F-FA84-4983-BF13-CD3A77855C02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method-9-FactorialTest", "Method-9-FactorialTest\Method-9-FactorialTest.csproj", "{CA787E5F-FA84-4983-BF13-CD3A77855C02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method-10-RefAndOutputParam", "Method-10-RefAndOutputParam\Method-10-RefAndOutputParam.csproj", "{BB0D61E0-CB81-4A01-9FE0-6110FDB73D2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method-10-RefAndOutputParam", "Method-10-RefAndOutputParam\Method-10-RefAndOutputParam.csproj", "{BB0D61E0-CB81-4A01-9FE0-6110FDB73D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method-11-Polinom", "Method-11-Polinom\Method-11-Polinom.csproj", "{1F86C2BD-6A3C-4443-8D74-458F1A52D3E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,14 +47,14 @@ Global
 		{D0E1A883-1D8E-4409-92E3-46AA82B7A40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0E1A883-1D8E-4409-92E3-46AA82B7A40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0E1A883-1D8E-4409-92E3-46AA82B7A40E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D2A8D85A-88BA-4F6D-BA60-53CC12939A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D2A8D85A-88BA-4F6D-BA60-53CC12939A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D2A8D85A-88BA-4F6D-BA60-53CC12939A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D2A8D85A-88BA-4F6D-BA60-53CC12939A85}.Release|Any CPU.Build.0 = Release|Any CPU
 		{28CA0BCE-8D28-44BB-A695-4C62A776E56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{28CA0BCE-8D28-44BB-A695-4C62A776E56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28CA0BCE-8D28-44BB-A695-4C62A776E56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28CA0BCE-8D28-44BB-A695-4C62A776E56B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A8D85A-88BA-4F6D-BA60-53CC12939A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A8D85A-88BA-4F6D-BA60-53CC12939A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A8D85A-88BA-4F6D-BA60-53CC12939A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A8D85A-88BA-4F6D-BA60-53CC12939A85}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6024523C-5DB9-4FB4-AEE9-BC5DFC759923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6024523C-5DB9-4FB4-AEE9-BC5DFC759923}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6024523C-5DB9-4FB4-AEE9-BC5DFC759923}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +71,10 @@ Global
 		{BB0D61E0-CB81-4A01-9FE0-6110FDB73D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB0D61E0-CB81-4A01-9FE0-6110FDB73D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB0D61E0-CB81-4A01-9FE0-6110FDB73D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F86C2BD-6A3C-4443-8D74-458F1A52D3E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F86C2BD-6A3C-4443-8D74-458F1A52D3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F86C2BD-6A3C-4443-8D74-458F1A52D3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F86C2BD-6A3C-4443-8D74-458F1A52D3E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
